@@ -14,10 +14,10 @@ Initiate the integer variables to assign the marks of Maths, Physics and Chemist
 Calculate the first total that sums all the 3 subject marks; and the second total that sums maths and physics marks.
 
 ### Step4:
-Based on the condition given, check whether the student is eligible for the engineering admission.
+Based on the given condition, check whether the student is eligible for the engineering admission.
 
 ### Step5:
-Display the output for the input read from the user.
+Display the output for the input read from the user
 
 ### Step6:
 Stop the execution.
@@ -55,7 +55,6 @@ namespace ex1
     }
 }
 ```
-
 ## Output:
 
 ![](./o1.png)
